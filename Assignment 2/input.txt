@@ -1,0 +1,6 @@
+5 10
+D
+E F  I J
+BG
+C H
+A

@@ -1,0 +1,8 @@
+# P ^ Q -> R v S converted to CNF
+-P -Q R S
+-A -R
+A
+P
+Q
+# negation of the query, S
+-S
